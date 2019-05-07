@@ -1,7 +1,4 @@
 /wp-admin/*
-/wp-content/*
-!/wp-content/plugins/advanced-classifieds-and-directory-pro/*
-!/wp-content/themes/adminty/*
 /wp-includes/*
 /index.php
 /readme.html
@@ -20,3 +17,5 @@
 /xmlrpc.php
 /license.txt
 /.htaccess
+/.vscode/*
+/wp-login.php
